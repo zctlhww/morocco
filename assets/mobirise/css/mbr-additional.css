@@ -1784,7 +1784,7 @@ body {
 }
 .cid-qTgNyeo5TJ {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qTgNyeo5TJ .counter-container {
@@ -1820,6 +1820,18 @@ body {
 }
 .cid-qTgNyeo5TJ .mbr-text {
   text-align: left;
+}
+.cid-qTip4zKQLz {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qTip4zKQLz .mbr-text,
+.cid-qTip4zKQLz blockquote {
+  color: #767676;
+}
+.cid-qTip4zKQLz .mbr-text {
+  text-align: center;
 }
 .cid-qTh5UpMPJe {
   padding-top: 15px;
